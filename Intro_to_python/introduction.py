@@ -1,0 +1,6 @@
+# - How the language interacts  with user (I/O)
+# - How the language makes decisions(if else)
+# - How the language do repititive tasks(loops)
+# - How the language segregates common code(functions)
+# - How the language possess real life problem's properties (OOP)
+# - How the language recurse (Recursion)
