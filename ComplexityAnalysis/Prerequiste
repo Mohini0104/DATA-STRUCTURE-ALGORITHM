@@ -1,0 +1,33 @@
+Conditionals
+Loops
+Memory
+Recursion
+
+1. Why we build algorithm?
+=> To make things easy 
+=> To make some complex problem solvable
+
+2. Apart from the algorithms what else we want from them?
+=> We want them to be fast and memory efficient 
+
+3. Multitasking and Multiprocessing - Multitasking is a myth, there's nothing like
+multitasking that happens ever, our processor core never handles mult-task at the
+  same point of time, 
+  Then how we are able to do so many things together?
+  => Here comes the concept of core's, ex: dual, octa, hexa ...
+   Techically at one point of time we can run only one program at a time in a single core
+   and if we have multicore let's say we have 8 cores that means in actual we can run 8 programs in parallel
+   and that's called multiprocessing.
+
+4. GPU => Grapical Processing Unit
+
+5. Performance of CPU depends on : CPU + RAM + Cache
+
+6. Multithreading: 
+
+7. Slow performance of a system should not be the judging criteria for algorithms
+
+
+
+
+
