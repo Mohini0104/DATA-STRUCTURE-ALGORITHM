@@ -1,0 +1,26 @@
+ 1. What is an asymptot?
+ => If we have a curve then asymptot is the line that intersect the curve at infinity
+
+Asymptotic analysis is called so because we assume  the input size is going to grow at a very significant rate 
+and this will be a very high value
+
+2^2^n   |
+n!      |
+4^0     | Decreasing 
+2^n     | Rate of 
+n^3     | Growth
+nlogn   |
+n       |
+√n      |
+logn    |
+loglogn |
+1       V
+
+-> Asymptotic analysis generally analyses your algorithm in 3 major categories
+1. Worst 2. Average 3. Best
+
+1. Worst: This analysis defines the input for which the algo takes the longest time
+Here the algo is slowest
+3. Best: This analysis defines the input for which the algo takes the least time
+Here the algo is fastest
+2. Averge: 
